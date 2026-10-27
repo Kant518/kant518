@@ -1,111 +1,125 @@
-###
-
-# 💫 About Me:
-👋 Hello, fellow humans and fellow bugs!
-
-I'm a developer who spends most of my days turning coffee ☕ into code, ideas into reality, and "small changes" into unexpected adventures. 🚀
-
-My developer journey is not just about building things - it's about curiosity, creativity, endless learning, and the beautiful chaos of solving problems that sometimes didn't exist yesterday. 😄
-
-I believe every great product starts with a dream, every bug has a lesson, and every "it works on my machine" deserves a little celebration. 🎉
-
-When I'm not chasing ideas, I'm probably asking myself:
-"Can this be automated?" 🤔  
-"Why is this broken?" 🐛  
-"Did I really fix it, or did I just create a new problem?" 😂
-
-My dream is simple: keep creating, keep learning, and leave the developer world a little better than I found it. 🌎✨
-
-Here's to late nights, big ideas, small victories, and the never-ending adventure of being a developer. 💻❤️
-
-
-# 💻 Tech Stack:
-<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=plastic&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) -->
-
-
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="60" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
 
-  <!-- Frameworks / Libraries -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron.js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express.js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue.js logo"  />
+<img src="./assets/banner.webp" width="100%" alt="K@nt 518 · Senior Full Stack Engineer · AI Engineering • Cloud Solutions" />
 
-  <!-- Cloud / DevOps -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+<br/><br/>
 
-  <!-- Databases -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Building+intelligent+products+powered+by+AI;Designing+scalable%2C+secure+cloud+architectures;From+idea+to+production%2C+end-to-end" alt="typing intro" />
 
-  <!-- Tools -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kant131&label=Profile%20views&color=0891b2&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/kant131?label=Followers&style=flat-square&color=0891b2" alt="followers" />
+
 </div>
 
-###
+<br/>
 
-<br clear="both">
+<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
+
+## About Me
+
+<img src="./assets/developer.webp" align="right" width="380" alt="developer animation" />
+
+I'm **K@nt 518**, a **Senior Full Stack Engineer** focused on **AI Engineering** and **Cloud Solutions**.
+
+I build production-ready products end-to-end: from intelligent backends and LLM-powered features to scalable cloud infrastructure and polished user interfaces.
+
+- 🤖 **AI Engineering**: LLM apps, RAG pipelines, AI agents and model integration
+- ☁️ **Cloud Solutions**: scalable, secure and cost-efficient architectures on AWS, Azure and GCP
+- 🧩 **Full Stack**: clean APIs, modern frontends and reliable data layers
+- ⚙️ **DevOps**: containers, CI/CD and infrastructure as code
+- 🎯 **Mindset**: automate the boring, simplify the complex, ship what matters
+
+<br clear="right"/>
+
+<br/>
+
+<!-- ═══════════════════════════  TECH STACK  ═══════════════════════════ -->
+
+## Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="150"><b>AI & ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&perline=10" alt="ai and ml" /><br/>
+      <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,terraform,githubactions,linux&perline=10" alt="cloud and devops" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,ts,fastapi,django,express,nestjs,rust&perline=10" alt="backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,tailwind&perline=10" alt="frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase&perline=10" alt="data" /></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kant131&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kant131&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kant131&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B&stroke=1E293B" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════  CONTRIBUTIONS  ═══════════════════════════ -->
+
+## Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kant131/kant131/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kant131/kant131/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kant131/kant131/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
-###
+<br/>
+
+<!-- ═══════════════════════════  CONNECT  ═══════════════════════════ -->
+<!--
+  Add your links here and remove the comment markers to show this section:
+
+## Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://YOUR_WEBSITE"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</div>
+-->
+
+<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
+<div align="center">
+
+<sub>Thanks for stopping by. Let's build something intelligent together.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:000000,50:0C4A6E,100:22D3EE" width="100%" alt="footer" />
+
+</div>
