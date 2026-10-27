@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Profile views: 19. Followers: 0.">
-  <title>Profile views: 19. Followers: 0.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Profile views: 28. Followers: 2.">
+  <title>Profile views: 28. Followers: 2.</title>
   <defs>
     <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0E9FBF" stop-opacity=".28"/>
@@ -70,30 +70,30 @@
   <g class="tile">
     <text x="40" y="58" class="label">PROFILE VIEWS</text>
     <text x="40" y="122" class="value n" style="animation-name:f0">0</text>
-    <text x="40" y="122" class="value n" style="animation-name:f1">2</text>
-    <text x="40" y="122" class="value n" style="animation-name:f2">4</text>
-    <text x="40" y="122" class="value n" style="animation-name:f3">6</text>
-    <text x="40" y="122" class="value n" style="animation-name:f4">8</text>
-    <text x="40" y="122" class="value n" style="animation-name:f5">10</text>
-    <text x="40" y="122" class="value n" style="animation-name:f6">11</text>
-    <text x="40" y="122" class="value n" style="animation-name:f7">12</text>
-    <text x="40" y="122" class="value n" style="animation-name:f8">13</text>
-    <text x="40" y="122" class="value n" style="animation-name:f9">14</text>
-    <text x="40" y="122" class="value n" style="animation-name:f10">15</text>
-    <text x="40" y="122" class="value n" style="animation-name:f11">16</text>
-    <text x="40" y="122" class="value n" style="animation-name:f12">17</text>
-    <text x="40" y="122" class="value n" style="animation-name:f13">17</text>
-    <text x="40" y="122" class="value n" style="animation-name:f14">18</text>
-    <text x="40" y="122" class="value n" style="animation-name:f15">18</text>
-    <text x="40" y="122" class="value n" style="animation-name:f16">18</text>
-    <text x="40" y="122" class="value n" style="animation-name:f17">19</text>
-    <text x="40" y="122" class="value n" style="animation-name:f18">19</text>
-    <text x="40" y="122" class="value n" style="animation-name:f19">19</text>
-    <text x="40" y="122" class="value n" style="animation-name:f20">19</text>
-    <text x="40" y="122" class="value n" style="animation-name:f21">19</text>
-    <text x="40" y="122" class="value n" style="animation-name:f22">19</text>
-    <text x="40" y="122" class="value n" style="animation-name:f23">19</text>
-    <text x="40" y="122" class="value n final" style="animation-name:f24">19</text>
+    <text x="40" y="122" class="value n" style="animation-name:f1">3</text>
+    <text x="40" y="122" class="value n" style="animation-name:f2">6</text>
+    <text x="40" y="122" class="value n" style="animation-name:f3">9</text>
+    <text x="40" y="122" class="value n" style="animation-name:f4">12</text>
+    <text x="40" y="122" class="value n" style="animation-name:f5">14</text>
+    <text x="40" y="122" class="value n" style="animation-name:f6">16</text>
+    <text x="40" y="122" class="value n" style="animation-name:f7">18</text>
+    <text x="40" y="122" class="value n" style="animation-name:f8">20</text>
+    <text x="40" y="122" class="value n" style="animation-name:f9">21</text>
+    <text x="40" y="122" class="value n" style="animation-name:f10">22</text>
+    <text x="40" y="122" class="value n" style="animation-name:f11">24</text>
+    <text x="40" y="122" class="value n" style="animation-name:f12">25</text>
+    <text x="40" y="122" class="value n" style="animation-name:f13">25</text>
+    <text x="40" y="122" class="value n" style="animation-name:f14">26</text>
+    <text x="40" y="122" class="value n" style="animation-name:f15">27</text>
+    <text x="40" y="122" class="value n" style="animation-name:f16">27</text>
+    <text x="40" y="122" class="value n" style="animation-name:f17">27</text>
+    <text x="40" y="122" class="value n" style="animation-name:f18">28</text>
+    <text x="40" y="122" class="value n" style="animation-name:f19">28</text>
+    <text x="40" y="122" class="value n" style="animation-name:f20">28</text>
+    <text x="40" y="122" class="value n" style="animation-name:f21">28</text>
+    <text x="40" y="122" class="value n" style="animation-name:f22">28</text>
+    <text x="40" y="122" class="value n" style="animation-name:f23">28</text>
+    <text x="40" y="122" class="value n final" style="animation-name:f24">28</text>
     <text x="40" y="154" class="note">Tracking daily since Oct 27</text>
     
     <line x1="260" y1="140" x2="460" y2="140" stroke="#1E293B" stroke-width="1"/>
@@ -112,28 +112,28 @@
     <text x="540" y="122" class="value n" style="animation-name:f0">0</text>
     <text x="540" y="122" class="value n" style="animation-name:f1">0</text>
     <text x="540" y="122" class="value n" style="animation-name:f2">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f3">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f4">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f5">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f6">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f7">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f8">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f9">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f10">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f11">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f12">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f13">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f14">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f15">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f16">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f17">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f18">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f19">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f20">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f21">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f22">0</text>
-    <text x="540" y="122" class="value n" style="animation-name:f23">0</text>
-    <text x="540" y="122" class="value n final" style="animation-name:f24">0</text>
+    <text x="540" y="122" class="value n" style="animation-name:f3">1</text>
+    <text x="540" y="122" class="value n" style="animation-name:f4">1</text>
+    <text x="540" y="122" class="value n" style="animation-name:f5">1</text>
+    <text x="540" y="122" class="value n" style="animation-name:f6">1</text>
+    <text x="540" y="122" class="value n" style="animation-name:f7">1</text>
+    <text x="540" y="122" class="value n" style="animation-name:f8">1</text>
+    <text x="540" y="122" class="value n" style="animation-name:f9">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f10">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f11">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f12">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f13">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f14">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f15">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f16">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f17">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f18">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f19">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f20">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f21">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f22">2</text>
+    <text x="540" y="122" class="value n" style="animation-name:f23">2</text>
+    <text x="540" y="122" class="value n final" style="animation-name:f24">2</text>
     <text x="540" y="154" class="note">Tracking daily since Oct 27</text>
     
     <line x1="760" y1="140" x2="960" y2="140" stroke="#1E293B" stroke-width="1"/>
