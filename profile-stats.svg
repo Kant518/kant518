@@ -97,8 +97,8 @@
     <text x="40" y="154" class="note">+12 since Oct 27</text>
     
     <line x1="260" y1="140" x2="460" y2="140" stroke="#1E293B" stroke-width="1"/>
-    <path class="area" d="M260.0 140.0 L360.0 63.0 L460.0 56.0 L460.0 140 L260 140 Z" fill="url(#fade)"/>
-    <path class="line" d="M260.0 140.0 L360.0 63.0 L460.0 56.0" pathLength="1" fill="none" stroke="#0E9FBF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path class="area" d="M260.0 140.0 L326.7 63.0 L393.3 56.0 L460.0 56.0 L460.0 140 L260 140 Z" fill="url(#fade)"/>
+    <path class="line" d="M260.0 140.0 L326.7 63.0 L393.3 56.0 L460.0 56.0" pathLength="1" fill="none" stroke="#0E9FBF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <g class="dot">
       <circle class="pulse" cx="460.0" cy="56.0" r="4" fill="#0E9FBF"/>
       <circle cx="460.0" cy="56.0" r="4" fill="#0E9FBF" stroke="#0B1220" stroke-width="2"/>
@@ -137,8 +137,8 @@
     <text x="540" y="154" class="note">+1 since Oct 27</text>
     
     <line x1="760" y1="140" x2="960" y2="140" stroke="#1E293B" stroke-width="1"/>
-    <path class="area" d="M760.0 140.0 L860.0 56.0 L960.0 56.0 L960.0 140 L760 140 Z" fill="url(#fade)"/>
-    <path class="line" d="M760.0 140.0 L860.0 56.0 L960.0 56.0" pathLength="1" fill="none" stroke="#0E9FBF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path class="area" d="M760.0 140.0 L826.7 56.0 L893.3 56.0 L960.0 56.0 L960.0 140 L760 140 Z" fill="url(#fade)"/>
+    <path class="line" d="M760.0 140.0 L826.7 56.0 L893.3 56.0 L960.0 56.0" pathLength="1" fill="none" stroke="#0E9FBF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <g class="dot">
       <circle class="pulse" cx="960.0" cy="56.0" r="4" fill="#0E9FBF"/>
       <circle cx="960.0" cy="56.0" r="4" fill="#0E9FBF" stroke="#0B1220" stroke-width="2"/>
