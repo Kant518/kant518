@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Profile views: 34. Followers: 3.">
-  <title>Profile views: 34. Followers: 3.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Profile views: 33. Followers: 3.">
+  <title>Profile views: 33. Followers: 3.</title>
   <defs>
     <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0E9FBF" stop-opacity=".28"/>
@@ -75,33 +75,33 @@
     <text x="40" y="122" class="value n" style="animation-name:f3">11</text>
     <text x="40" y="122" class="value n" style="animation-name:f4">14</text>
     <text x="40" y="122" class="value n" style="animation-name:f5">17</text>
-    <text x="40" y="122" class="value n" style="animation-name:f6">20</text>
-    <text x="40" y="122" class="value n" style="animation-name:f7">22</text>
-    <text x="40" y="122" class="value n" style="animation-name:f8">24</text>
-    <text x="40" y="122" class="value n" style="animation-name:f9">26</text>
-    <text x="40" y="122" class="value n" style="animation-name:f10">27</text>
-    <text x="40" y="122" class="value n" style="animation-name:f11">29</text>
-    <text x="40" y="122" class="value n" style="animation-name:f12">30</text>
-    <text x="40" y="122" class="value n" style="animation-name:f13">31</text>
-    <text x="40" y="122" class="value n" style="animation-name:f14">32</text>
-    <text x="40" y="122" class="value n" style="animation-name:f15">32</text>
-    <text x="40" y="122" class="value n" style="animation-name:f16">33</text>
-    <text x="40" y="122" class="value n" style="animation-name:f17">33</text>
-    <text x="40" y="122" class="value n" style="animation-name:f18">33</text>
-    <text x="40" y="122" class="value n" style="animation-name:f19">34</text>
-    <text x="40" y="122" class="value n" style="animation-name:f20">34</text>
-    <text x="40" y="122" class="value n" style="animation-name:f21">34</text>
-    <text x="40" y="122" class="value n" style="animation-name:f22">34</text>
-    <text x="40" y="122" class="value n" style="animation-name:f23">34</text>
-    <text x="40" y="122" class="value n final" style="animation-name:f24">34</text>
-    <text x="40" y="154" class="note">+6 since Oct 27</text>
+    <text x="40" y="122" class="value n" style="animation-name:f6">19</text>
+    <text x="40" y="122" class="value n" style="animation-name:f7">21</text>
+    <text x="40" y="122" class="value n" style="animation-name:f8">23</text>
+    <text x="40" y="122" class="value n" style="animation-name:f9">25</text>
+    <text x="40" y="122" class="value n" style="animation-name:f10">26</text>
+    <text x="40" y="122" class="value n" style="animation-name:f11">28</text>
+    <text x="40" y="122" class="value n" style="animation-name:f12">29</text>
+    <text x="40" y="122" class="value n" style="animation-name:f13">30</text>
+    <text x="40" y="122" class="value n" style="animation-name:f14">31</text>
+    <text x="40" y="122" class="value n" style="animation-name:f15">31</text>
+    <text x="40" y="122" class="value n" style="animation-name:f16">32</text>
+    <text x="40" y="122" class="value n" style="animation-name:f17">32</text>
+    <text x="40" y="122" class="value n" style="animation-name:f18">32</text>
+    <text x="40" y="122" class="value n" style="animation-name:f19">33</text>
+    <text x="40" y="122" class="value n" style="animation-name:f20">33</text>
+    <text x="40" y="122" class="value n" style="animation-name:f21">33</text>
+    <text x="40" y="122" class="value n" style="animation-name:f22">33</text>
+    <text x="40" y="122" class="value n" style="animation-name:f23">33</text>
+    <text x="40" y="122" class="value n final" style="animation-name:f24">33</text>
+    <text x="40" y="154" class="note">+5 since Oct 27</text>
     
     <line x1="260" y1="140" x2="460" y2="140" stroke="#1E293B" stroke-width="1"/>
-    <path class="area" d="M260.0 140.0 L275.4 74.0 L290.8 68.0 L306.2 68.0 L321.5 56.0 L336.9 56.0 L352.3 62.0 L367.7 68.0 L383.1 74.0 L398.5 80.0 L413.8 86.0 L429.2 92.0 L444.6 98.0 L460.0 104.0 L460.0 140 L260 140 Z" fill="url(#fade)"/>
-    <path class="line" d="M260.0 140.0 L275.4 74.0 L290.8 68.0 L306.2 68.0 L321.5 56.0 L336.9 56.0 L352.3 62.0 L367.7 68.0 L383.1 74.0 L398.5 80.0 L413.8 86.0 L429.2 92.0 L444.6 98.0 L460.0 104.0" pathLength="1" fill="none" stroke="#0E9FBF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path class="area" d="M260.0 140.0 L274.3 74.0 L288.6 68.0 L302.9 68.0 L317.1 56.0 L331.4 56.0 L345.7 62.0 L360.0 68.0 L374.3 74.0 L388.6 80.0 L402.9 86.0 L417.1 92.0 L431.4 98.0 L445.7 104.0 L460.0 110.0 L460.0 140 L260 140 Z" fill="url(#fade)"/>
+    <path class="line" d="M260.0 140.0 L274.3 74.0 L288.6 68.0 L302.9 68.0 L317.1 56.0 L331.4 56.0 L345.7 62.0 L360.0 68.0 L374.3 74.0 L388.6 80.0 L402.9 86.0 L417.1 92.0 L431.4 98.0 L445.7 104.0 L460.0 110.0" pathLength="1" fill="none" stroke="#0E9FBF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <g class="dot">
-      <circle class="pulse" cx="460.0" cy="104.0" r="4" fill="#0E9FBF"/>
-      <circle cx="460.0" cy="104.0" r="4" fill="#0E9FBF" stroke="#0B1220" stroke-width="2"/>
+      <circle class="pulse" cx="460.0" cy="110.0" r="4" fill="#0E9FBF"/>
+      <circle cx="460.0" cy="110.0" r="4" fill="#0E9FBF" stroke="#0B1220" stroke-width="2"/>
     </g>
     <text x="260" y="166" class="axis">Oct 27</text>
     <text x="460" y="166" class="axis" text-anchor="end">Today</text>
@@ -137,8 +137,8 @@
     <text x="540" y="154" class="note">+1 since Oct 27</text>
     
     <line x1="760" y1="140" x2="960" y2="140" stroke="#1E293B" stroke-width="1"/>
-    <path class="area" d="M760.0 140.0 L775.4 98.0 L790.8 98.0 L806.2 98.0 L821.5 56.0 L836.9 56.0 L852.3 56.0 L867.7 56.0 L883.1 56.0 L898.5 98.0 L913.8 98.0 L929.2 98.0 L944.6 98.0 L960.0 98.0 L960.0 140 L760 140 Z" fill="url(#fade)"/>
-    <path class="line" d="M760.0 140.0 L775.4 98.0 L790.8 98.0 L806.2 98.0 L821.5 56.0 L836.9 56.0 L852.3 56.0 L867.7 56.0 L883.1 56.0 L898.5 98.0 L913.8 98.0 L929.2 98.0 L944.6 98.0 L960.0 98.0" pathLength="1" fill="none" stroke="#0E9FBF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path class="area" d="M760.0 140.0 L774.3 98.0 L788.6 98.0 L802.9 98.0 L817.1 56.0 L831.4 56.0 L845.7 56.0 L860.0 56.0 L874.3 56.0 L888.6 98.0 L902.9 98.0 L917.1 98.0 L931.4 98.0 L945.7 98.0 L960.0 98.0 L960.0 140 L760 140 Z" fill="url(#fade)"/>
+    <path class="line" d="M760.0 140.0 L774.3 98.0 L788.6 98.0 L802.9 98.0 L817.1 56.0 L831.4 56.0 L845.7 56.0 L860.0 56.0 L874.3 56.0 L888.6 98.0 L902.9 98.0 L917.1 98.0 L931.4 98.0 L945.7 98.0 L960.0 98.0" pathLength="1" fill="none" stroke="#0E9FBF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <g class="dot">
       <circle class="pulse" cx="960.0" cy="98.0" r="4" fill="#0E9FBF"/>
       <circle cx="960.0" cy="98.0" r="4" fill="#0E9FBF" stroke="#0B1220" stroke-width="2"/>
