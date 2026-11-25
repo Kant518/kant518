@@ -1,5 +1,5 @@
 {
-  "selfHits": 30,
+  "selfHits": 31,
   "days": [
     {
       "date": "2026-10-27",
@@ -144,6 +144,11 @@
     {
       "date": "2026-11-24",
       "views": 24,
+      "followers": 3
+    },
+    {
+      "date": "2026-11-25",
+      "views": 23,
       "followers": 3
     }
   ]
