@@ -1,11 +1,6 @@
 {
-  "selfHits": 33,
+  "selfHits": 34,
   "days": [
-    {
-      "date": "2026-10-29",
-      "views": 40,
-      "followers": 3
-    },
     {
       "date": "2026-10-30",
       "views": 40,
@@ -149,6 +144,11 @@
     {
       "date": "2026-11-27",
       "views": 21,
+      "followers": 3
+    },
+    {
+      "date": "2026-11-28",
+      "views": 20,
       "followers": 3
     }
   ]
